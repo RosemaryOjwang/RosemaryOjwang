@@ -1,6 +1,7 @@
 # Hello 👋 and thank you for visiting
 
-*_Call me Rosemary_*
+**_Call me Rosemary_**
+
 _😄 Pronouns: *She/Her/Hers*_
 
 _🌱 I’m currently learning Dart, JavaScript, Databases and Python._
