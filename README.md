@@ -2,6 +2,8 @@
 
 _🌱 I’m currently learning Dart, JavaScript, Databases and Python._
 
+_📫 How to reach me: rosemaryojwang26@gmail.com_
+
 <!--
 **RosemaryOjwang/RosemaryOjwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
