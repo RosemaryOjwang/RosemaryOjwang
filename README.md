@@ -1,8 +1,8 @@
-# Hello 👋 and thank you for visiting
+# Hello 👋 and thank you for visiting.
 
-**_Call me Rosemary_**
+**_Call me Rosemary._**
 
-_😄 Pronouns: *She/Her/Hers*_
+_😄 Pronouns: **She/Her/Hers**_
 
 _🌱 I’m currently learning Dart, JavaScript, Databases and Python._
 
@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: rosemaryojwang26@gmail.com 
 - _😄 Pronouns: *She/Her/Hers*_
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The first programmer was the daughter of a mad poet.
 -->
