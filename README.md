@@ -1,5 +1,8 @@
 # Hello 👋 and thank you for visiting
 
+*_Call me Rosemary_*
+_😄 Pronouns: *She/Her/Hers*_
+
 _🌱 I’m currently learning Dart, JavaScript, Databases and Python._
 
 _📫 How to reach me: rosemaryojwang26@gmail.com_
@@ -15,6 +18,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: rosemaryojwang26@gmail.com 
-- 😄 Pronouns: ...
+- _😄 Pronouns: *She/Her/Hers*_
 - ⚡ Fun fact: ...
 -->
