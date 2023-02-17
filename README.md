@@ -1,5 +1,7 @@
 # Hello 👋 and thank you for visiting
 
+_🌱 I’m currently learning Dart, JavaScript, Databases and Python._
+
 <!--
 **RosemaryOjwang/RosemaryOjwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
