@@ -4,7 +4,7 @@
 
 _😄 Pronouns: **She/Her/Hers**_
 
-_🌱 I’m currently learning Dart, JavaScript, Databases and Python._
+_🌱 I’m currently learning Data Analysis, JavaScript, and Cloud Computing._
 
 _📫 How to reach me: rosemaryojwang26@gmail.com_
 
