@@ -4,7 +4,7 @@
 
 _😄 Pronouns: **She/Her/Hers**_
 
-_🌱 I’m currently learning Data Analysis._
+_🌱 I’m currently learning Data Analytics._
 
 _📫 How to reach me: rosemaryojwang26@gmail.com_
 
